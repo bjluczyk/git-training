@@ -10,7 +10,9 @@ NARRATIVE:  Programming is fun.
 *************************************************************************
 -*/
 
-main()
+#include <stdio.h>
+
+int main()
 {
   printf("Programming is fun.\n");
 }
