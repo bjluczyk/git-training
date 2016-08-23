@@ -14,5 +14,6 @@ NARRATIVE:  Programming is fun.
 
 int main()
 {
+  // Print a message
   printf("Programming is fun.\n");
 }
