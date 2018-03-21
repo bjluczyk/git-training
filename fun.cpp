@@ -17,4 +17,5 @@ int main()
   // Print a message
   printf("Programming is fun.\n");
   printf("git is even more fun!\n");
+  printf("branching makes it better.\n");
 }
